@@ -8,6 +8,14 @@ To use these wallpapers:
 1. Clone the repository: 
 2. Choose your favorite wallpaper and set it as your background through your operating system's preference settings.
 
+## Structure
+- `tokyonight/` - wallpapers in the TokyoNight palette
+- `catppuccin/` - wallpapers in the Catppuccin palette
+- `cosmic/` - COSMIC desktop (and Pop!_OS) branded wallpapers
+- `other/` - wallpapers that match neither palette
+
+Files are named `<subject>-<width>x<height>.<ext>`. Higher resolutions of the same subject are AI upscales of the smallest one.
+
 ## Features
 - High-resolution images suitable for various screen sizes.
 - A variety of themes capturing TokyoNight and Catppuccin palette.
