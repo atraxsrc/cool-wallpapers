@@ -12,7 +12,6 @@ To use these wallpapers:
 - `tokyonight/` - wallpapers in the TokyoNight palette
 - `catppuccin/` - wallpapers in the Catppuccin palette
 - `cosmic/` - COSMIC desktop (and Pop!_OS) branded wallpapers
-- `other/` - wallpapers that match neither palette
 
 Files are named `<subject>-<width>x<height>.<ext>`. Higher resolutions of the same subject are AI upscales of the smallest one.
 
