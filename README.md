@@ -5,7 +5,10 @@ This repository is a collection of high-quality wallpapers grouped by color pale
 
 ## Installation and Usage
 To use these wallpapers:
-1. Clone the repository: 
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/atraxsrc/cool-wallpapers.git
+   ```
 2. Choose your favorite wallpaper and set it as your background through your operating system's preference settings.
 
 ## Structure
@@ -21,6 +24,12 @@ Files are named `<subject>-<width>x<height>.<ext>`. Higher resolutions of the sa
 ## Features
 - High-resolution images suitable for various screen sizes.
 - A variety of themes capturing the TokyoNight, Catppuccin, Everforest, Harbor Dark and Omarchy palettes.
+
+## Related
+Pop!_OS COSMIC rices that use these wallpapers:
+- [Pop_OS-Cosmic-TokyoNight](https://github.com/atraxsrc/Pop_OS-Cosmic-TokyoNight) - Tokyo Night, uses `tokyonight/` and `cosmic/`
+- [Pop_OS-Cosmic-DarkGold](https://github.com/atraxsrc/Pop_OS-Cosmic-DarkGold) - Harbor Dark gold, uses `cosmic/` and `harbor-dark/`
+- [Pop_OS-Cosmic-Monochrome](https://github.com/atraxsrc/Pop_OS-Cosmic-Monochrome) - gray, no hue, uses `cosmic/`
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
