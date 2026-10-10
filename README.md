@@ -31,6 +31,8 @@ Pop!_OS COSMIC rices that use these wallpapers:
 - [cosmic-whitegold-theme](https://github.com/atraxsrc/cosmic-whitegold-theme) - parchment and dark gold, light sibling of DarkGold, uses `omarchy/white-gold/`
 - [cosmic-tokyonight-theme](https://github.com/atraxsrc/cosmic-tokyonight-theme) - Tokyo Night, uses `tokyonight/` and `cosmic/`
 - [cosmic-monochrome-theme](https://github.com/atraxsrc/cosmic-monochrome-theme) - gray, no hue, uses `cosmic/`
+- [cosmic-noir-theme](https://github.com/atraxsrc/cosmic-noir-theme) - charcoal, sage and orange, uses `omarchy/greek-noir/`
+- [cosmic-dossier-theme](https://github.com/atraxsrc/cosmic-dossier-theme) - stone grey, olive and rust, light half of Noir, uses `omarchy/the-greek/`
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
