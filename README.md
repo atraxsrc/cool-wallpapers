@@ -27,9 +27,10 @@ Files are named `<subject>-<width>x<height>.<ext>`. Higher resolutions of the sa
 
 ## Related
 Pop!_OS COSMIC rices that use these wallpapers:
-- [Pop_OS-Cosmic-TokyoNight](https://github.com/atraxsrc/Pop_OS-Cosmic-TokyoNight) - Tokyo Night, uses `tokyonight/` and `cosmic/`
-- [Pop_OS-Cosmic-DarkGold](https://github.com/atraxsrc/Pop_OS-Cosmic-DarkGold) - Harbor Dark gold, uses `cosmic/` and `harbor-dark/`
-- [Pop_OS-Cosmic-Monochrome](https://github.com/atraxsrc/Pop_OS-Cosmic-Monochrome) - gray, no hue, uses `cosmic/`
+- [cosmic-darkgold-theme](https://github.com/atraxsrc/cosmic-darkgold-theme) - Harbor Dark gold, uses `cosmic/` and `harbor-dark/`
+- [cosmic-whitegold-theme](https://github.com/atraxsrc/cosmic-whitegold-theme) - parchment and dark gold, light sibling of DarkGold, uses `omarchy/white-gold/`
+- [cosmic-tokyonight-theme](https://github.com/atraxsrc/cosmic-tokyonight-theme) - Tokyo Night, uses `tokyonight/` and `cosmic/`
+- [cosmic-monochrome-theme](https://github.com/atraxsrc/cosmic-monochrome-theme) - gray, no hue, uses `cosmic/`
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
