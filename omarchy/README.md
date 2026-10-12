@@ -2,7 +2,7 @@
 
 Wallpapers from the [Omarchy](https://omarchy.org/themes/) community themes. Theme repos usually keep their wallpapers in a `backgrounds/` folder.
 
-The folders here hold the wallpapers from all 20 [HANCORE-linux](https://github.com/HANCORE-linux) themes (MIT, license copied into each folder). Files are named `<theme>-<original name>-<width>x<height>`, and an `-alt` suffix marks the theme's alternate backgrounds. Harbor Dark's wallpapers live in [`../harbor-dark/`](../harbor-dark/).
+The folders here hold the wallpapers from all 20 [HANCORE-linux](https://github.com/HANCORE-linux) themes (MIT, license copied into each folder). Files are named `<theme>-<original name>-<width>x<height>`, and an `-alt` suffix marks the theme's alternate backgrounds. Harbor Dark's wallpapers are not here: they ship with the [cosmic-darkgold-theme](https://github.com/atraxsrc/cosmic-darkgold-theme/tree/main/backgrounds) rice, which uses that palette.
 
 The other themes aren't copied in, because together they'd add several GB. To grab one theme's wallpapers:
 
