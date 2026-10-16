@@ -16,8 +16,9 @@ To use these wallpapers:
 - `catppuccin/` - wallpapers in the Catppuccin palette
 - `everforest/` - wallpapers in the Everforest palette, from [Apeiros-46B/everforest-walls](https://github.com/Apeiros-46B/everforest-walls) (archived)
 - `omarchy/` - wallpapers from Omarchy community themes, one folder per theme, plus an index of all community theme repos
+- `anime/` - anime wallpapers, named `<subject>.<ext>` with no size suffix
 
-Files are named `<subject>-<width>x<height>.<ext>`, one file per subject, at most 5120 px on the long side. Where a wallpaper was an AI upscale of a smaller original, only the upscale is kept, resized down to that limit.
+Files are named `<subject>-<width>x<height>.<ext>` (except in `anime/`), one file per subject, at most 5120 px on the long side. Where a wallpaper was an AI upscale of a smaller original, only the upscale is kept, resized down to that limit.
 
 ## Features
 - High-resolution images suitable for various screen sizes.
